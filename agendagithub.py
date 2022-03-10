@@ -1,4 +1,3 @@
-agenda = {}
 #Es una función que hace la función de listar el nombre y número de la agenda
 #AUTOR: Emilio Pastor 
 #FECHA: 4/03/2022
